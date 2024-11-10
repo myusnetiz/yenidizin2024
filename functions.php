@@ -110,3 +110,6 @@ function register_my_menus() {
 	);
 }
 ?>
+function my_function(string $arg): string {
+    return $arg;
+}
