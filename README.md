@@ -1,4 +1,4 @@
-# Yeni Dizin Wordpress Teması 2022
+# Yeni Dizin Wordpress Teması 2024
 
 "Yeni Dizin" Wordpress Teması ilk olarak semveseo tarafından geliştirilerek yayınlanmış, 09.09.2024 tarihinde PHP 8.1 ve Wordpress son sürüm uyumluluk süreci
 tamamlanarak github'aeklenmiştir. 
